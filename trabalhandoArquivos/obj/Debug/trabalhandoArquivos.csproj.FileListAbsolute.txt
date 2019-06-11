@@ -1,0 +1,16 @@
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\bin\Debug\trabalhandoArquivos.exe.config
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\bin\Debug\trabalhandoArquivos.exe
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\bin\Debug\trabalhandoArquivos.pdb
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.csprojResolveAssemblyReference.cache
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.Properties.Resources.resources
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.csproj.GenerateResource.Cache
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.exe
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.pdb
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.Registro.resources
+c:\users\104835\documents\visual studio 2015\Projects\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.Listar.resources
+C:\Users\1008082\Documents\trabalhandoArquivos\trabalhandoArquivos\bin\Debug\trabalhandoArquivos.exe.config
+C:\Users\1008082\Documents\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.exe
+C:\Users\1008082\Documents\trabalhandoArquivos\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.pdb
+C:\Users\1008082\Documents\repo\trabalhandoArquivos\bin\Debug\trabalhandoArquivos.exe.config
+C:\Users\1008082\Documents\repo\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.exe
+C:\Users\1008082\Documents\repo\trabalhandoArquivos\obj\Debug\trabalhandoArquivos.pdb
