@@ -1,0 +1,25 @@
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.csproj.GenerateResource.cache
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.csproj.CoreCompileInputs.cache
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\bin\Debug\CRUD_SIMPLES.exe
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\bin\Debug\CRUD_SIMPLES.pdb
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.frmMain.resources
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.Properties.Resources.resources
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.exe
+C:\Users\1008082\Desktop\Insert Update Delete Source Code\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.pdb
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\bin\Debug\CRUD_SIMPLES.exe
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\bin\Debug\CRUD_SIMPLES.pdb
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.csprojAssemblyReference.cache
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.frmMain.resources
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.Properties.Resources.resources
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.csproj.GenerateResource.cache
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.csproj.CoreCompileInputs.cache
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.exe
+C:\Users\1008082\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.pdb
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.exe
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.pdb
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\bin\Debug\CRUD_SIMPLES.exe
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\bin\Debug\CRUD_SIMPLES.pdb
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.csprojResolveAssemblyReference.cache
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.frmMain.resources
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.Properties.Resources.resources
+C:\Users\104835\Desktop\CRUD\CRUD_SIMPLES\CRUD_SIMPLES\obj\Debug\CRUD_SIMPLES.csproj.GenerateResource.Cache
